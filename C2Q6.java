@@ -1,5 +1,4 @@
- Stop 
-PROGRAM 
+
 import java.util.*; 
 class C2Q6{ 
 int accno; 
